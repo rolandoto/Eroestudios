@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "id":"1",
+            "name": "Autauga",
+            "img": "https://www.blueskymapshop.com/img/u/productgroups/210519/dnjrgntcbd/Bluesky_Mapshop_Recent_Photography.jpg"
+        },
+        {
+            "id":"2",
+            "name": "Autauga",
+            "img": "https://www.blueskymapshop.com/img/u/productgroups/210519/udpcepcoza/Bluesky_Mapshop_Legacy_Photography.jpg"
+        },
+        {
+            "id":"3",
+            "name": "Autauga",
+            "img": "https://www.blueskymapshop.com/img/u/productgroups/210519/uqzbxajbam/Bluesky_Mapshop_Recent_HeightData.jpg"
+        },
+        {
+            "id":"4",
+            "name": "Autauga",
+            "img": "https://www.blueskymapshop.com/img/u/productgroups/210519/lobxfcqfle/Bluesky_Mapshop_Archive_HeightData.jpg"
+        },
+        {
+            "id":"5",
+            "name": "Autauga",
+            "img": "https://www.blueskymapshop.com/img/u/productgroups/191107/vnektfvvtl/Bluesky_MetroVista_Sample.jpg"
+        },
+         {
+            "id":"6",
+            "name": "Autauga",
+            "img": "https://www.blueskymapshop.com/img/u/productgroups/171103/ebzhsvpacw/3D_building_models.jpg"
+        }
+        
+
+    ]
+}

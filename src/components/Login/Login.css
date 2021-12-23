@@ -1,0 +1,150 @@
+
+.sds {
+  height: 500px;
+  min-height: 100vh;
+  background-size: cover;
+    background-repeat: no-repeat;
+  background-position: top;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.form {
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  text-align: center;
+}
+
+.input-container {
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-size: 14px;
+}
+
+.label {
+  margin-bottom: 5px;
+}
+
+.input {
+        padding: 19px 53px 27px 6px;
+    border: 1;
+    border: 2px solid black;
+    /* border: 19px; */
+    width: 99%;
+    margin-top: 10px;
+}
+
+.forgotten-password {
+  align-self: flex-end;
+  margin-top: 7px;
+}
+
+.login-btn  {
+  align-self: center;
+  padding: 13px 88px;
+  margin-top: 30px;
+  border: none;
+  color: #fff;
+  color: black;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in;
+    border: 1px solid black ;
+    font-weight: bold;
+    font-size: 19px;
+  
+}
+
+.Login-Btn {
+   align-self: center;
+  padding: 13px 88px;
+  margin-top: 30px;
+  border: none;
+  color: rgb(35, 157, 206);
+  color: white;
+  cursor: pointer;
+  background:#0056a0;;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in;
+    border: 1px solid black ;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.Login-Btn {
+  color: white;
+}
+
+
+.login-btn:hover {
+    transition: all 0.2s ease-in;
+   box-shadow: -10px 10px 0px 1px black;
+}
+
+.signup-label {
+  position: relative;
+  bottom: -10px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+
+.title-h1 {
+   font-size: 41px;
+       color: #0056a0;
+}
+
+
+.Form {
+  width: 100%;
+}
+
+
+.color {
+  color: white;
+}
+
+.isError {
+  margin: auto;
+  color: rgb(240, 20, 20);
+}
+
+.loading {
+  margin: auto;
+  
+}
+
+.login-botton {
+      color: white;
+    background: #0056a0;
+    margin: auto;
+    width: 309px;
+    height: 62px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 37px;
+    margin-top: 11px;
+    box-shadow: 4px 7px 14px 15px rgb(0 0 0 / 20%);
+}

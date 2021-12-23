@@ -1,0 +1,43 @@
+
+.button-paypal {
+    background-color: rgb(24, 96, 211); /* Green */
+  border: none;
+  color: #ffffff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+
+.cart-container {
+  border: 2px solid white;
+    margin: auto;
+    width: 53%;
+    border-radius: 103px;
+    background: w;
+    background: #1c60c5;
+    margin-top: 11px;
+    text-align: center;
+    color: white;
+    height: 62px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .coordena-cart {
+        background: white;
+    margin: auto;
+    width: 76%;
+    border-radius: 15px;
+    margin-top: 16px;
+  }
+
+  .container-ecommerce {
+    text-align: center  ;
+  }
+  

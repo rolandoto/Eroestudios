@@ -1,0 +1,66 @@
+ 
+    .content-Modal{
+        position: absolute;
+    border: 2px solid #205a97;
+    font-size: 25px;
+    z-index: 1;
+    background: white;
+    border-radius: 2px 19px 14px 24px;
+    width: 219px;
+    height: 191px;
+    }
+
+    li:hover {
+        background-color: #f9f9f9a4;
+        color: black;
+        cursor: pointer;
+    }
+
+   .text-font span{
+ font-size: 16px;
+   }   
+   
+   ul{
+           display: contents;
+   }
+
+   .bord {
+        background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    height: 48px;
+    align-items: center;
+    color: white;
+    border-bottom: 7px solid #205a97;
+    border-radius: 9px 18px 20px 25px;
+
+   }
+   .text-font li{
+    
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+   }
+   .text-font  {
+       display: block;
+   }
+   .title-config{
+     background: #205a97;
+    margin: auto;
+    width: 32px;
+    text-align: center;
+    border-radius: 113px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+
+   }
+  
+   
+   .text-font span{
+    
+    display: flex;
+    align-items: center;
+  
+   } 
