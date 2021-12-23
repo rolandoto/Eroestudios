@@ -5,9 +5,6 @@ import './products.css'
 
 const Products =()=>{
     const [state,setState] = useState()
-    const {maps,loading} = UseMap()
-    console.log(maps)
-    if(!maps) return <h1>cargando...</h1>
     
     return (
         <div className="center-title">
